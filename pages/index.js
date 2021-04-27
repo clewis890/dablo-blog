@@ -23,6 +23,7 @@ const Home = ({ doc, posts }) => {
           headline={doc.data.headline}
           description={doc.data.description}
         />
+        <a style={{ display: 'flex', justifyContent: 'center', margin: '0 auto', }} href="/blog">Go to blog</a>
         <PostList posts={posts} />
       </DefaultLayout>
     );

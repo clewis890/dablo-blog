@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prismic & Next.js Example Blog
 > [Next.js](https://nextjs.org/) example blog project with content managed in [Prismic](https://prismic.io)
 
@@ -17,3 +18,6 @@ Copyright 2021 [Prismic](https://prismic.io).
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this project except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+=======
+# dablo-blog
+>>>>>>> 0010a1956fde7f1e0f3382829485b1a2c7946d52
