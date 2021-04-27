@@ -10,7 +10,7 @@ import { BackButton, SliceZone } from "components/post";
 
 // Project functions & styles
 import { Client } from "utils/prismicHelpers";
-import { postStyles } from "styles";
+import { postStyles } from "styles/posts/index.js";
 
 /**
  * Post page component
